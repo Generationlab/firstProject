@@ -19,3 +19,4 @@ print("The minimum value of all the elements in the list is",minimum)
 
 mean = summation/count_upd
 print("The mean value of the elements in the list is",mean)
+#It looks like I have learned how to use git today
